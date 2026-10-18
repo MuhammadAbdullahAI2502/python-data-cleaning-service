@@ -1,0 +1,9 @@
+Order_ID,Customer,Product,Quantity,Unit_Price,City
+1001,Ali,Laptop,1,150000,Lahore
+1002,Sara,Mouse,2,2500,Karachi
+1003,Ahmed,Keyboard,1,4500,Lahore
+1004,Hina,Monitor,1,35000,Islamabad
+1005,Usman,Mouse,3,2500,Karachi
+1005,Usman,Mouse,3,2500,Karachi
+1007,Zara,Laptop,1,-150000,
+1008,Bilal,Keyboard,2,4500,Lahore
